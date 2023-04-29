@@ -110,3 +110,6 @@ The CSS variables can be adjusted to customize the look and feel of the animated
     --text: #414856;
     --check: #4
 ```
+
+## Preview
+<img width="950" alt="Screenshot 2023-04-29 150347" src="https://user-images.githubusercontent.com/59678435/235299309-60062f81-4d87-4b70-b8f0-15c44fdaa18a.png">
